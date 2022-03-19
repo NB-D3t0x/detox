@@ -2,7 +2,8 @@
 
 Tipos de comentarios
 para distintas formas 
-de poner multiples lineas
+de poner multi linea
+para bloque
 
 */
 
